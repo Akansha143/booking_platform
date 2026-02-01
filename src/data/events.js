@@ -17,10 +17,10 @@ export const EVENTS = [
     venue: "The Blue Room Jazz Club",
     city: "New York, NY",
     images: [
-      "https://images.unsplash.com/photo-1519653375881-451648caa38e?w=600&q=80",
-      "https://images.unsplash.com/photo-1504760917173-59a1615e20cc?w=600&q=80",
-      "https://images.unsplash.com/photo-1511735804275-7db35cfcee8d?w=600&q=80",
-      "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=600&q=80"
+      "https://images.unsplash.com/photo-1759661659417-9437c307b90c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1503853585905-d53f628e46ac?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1512053459797-38c3a066cabd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1664302649353-ce055ef0542b?q=80&w=783&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     description: "An intimate evening of smooth jazz performed by the legendary Marcus Webb Quartet. Featuring improvisational sets, cocktails, and an atmosphere that transports you to the golden age of jazz. All ages welcome; 21+ bar area available.",
     tags: ["jazz", "live-music", "intimate", "21+"],
@@ -55,9 +55,9 @@ export const EVENTS = [
     venue: "Ha! Comedy House",
     city: "Chicago, IL",
     images: [
-      "https://images.unsplash.com/photo-1609454803869-eb3f82394e4d?w=600&q=80",
-      "https://images.unsplash.com/photo-1555140578-1cdd25256d5c?w=600&q=80",
-      "https://images.unsplash.com/photo-1514306191588-3a2cb1b715e6?w=600&q=80"
+      "https://plus.unsplash.com/premium_photo-1705883064376-d94ef356bd7e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1682614301475-bb30bd8bc9f4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     description: "Five of Chicago's hottest stand-up comedians deliver a night of unfiltered humor. From sharp social commentary to absurdist storytelling, The Laughing Decade promises 90 minutes of non-stop laughs. Drink specials all night.",
     tags: ["comedy", "stand-up", "fun", "drinks"],
@@ -125,9 +125,9 @@ export const EVENTS = [
     venue: "Chase Center",
     city: "San Francisco, CA",
     images: [
-      "https://images.unsplash.com/photo-1505386981289-e6904c76fd2b?w=600&q=80",
-      "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&q=80",
-      "https://images.unsplash.com/photo-1518382163668-9ea8d808c838?w=600&q=80"
+      "https://plus.unsplash.com/premium_photo-1698238184282-7093161ba818?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1698238184758-c759ad4ac7be?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1646577482825-3fb6ff560de6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     description: "Experience the electric atmosphere of a playoff showdown between two NBA legends. Game 3 of the Western Conference Semi-Finals. Chase Center will be rocking from tip-off to final buzzer. VIP packages include courtside seating and player meet & greet.",
     tags: ["nba", "basketball", "playoffs", "live-sports"],
@@ -163,9 +163,9 @@ export const EVENTS = [
     venue: "Broadway Globe Theatre",
     city: "New York, NY",
     images: [
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
-      "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=600&q=80",
-      "https://images.unsplash.com/photo-1504760917173-59a1615e20cc?w=600&q=80"
+      "https://plus.unsplash.com/premium_photo-1664302637848-6ae0d5821944?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1677216769410-658c4bf83416?q=80&w=1154&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1701180132255-5afdd7b81274?q=80&w=1067&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     description: "Shakespeare's beloved comedy reimagined for the modern stage. A stunning production featuring over 40 cast members, elaborate costumes, and breathtaking set design. The fairy kingdom comes alive under enchanted lighting. A family-friendly magical experience for all ages.",
     tags: ["shakespeare", "theatre", "family", "classic"],
@@ -198,9 +198,9 @@ export const EVENTS = [
     venue: "Warehouse 23",
     city: "Los Angeles, CA",
     images: [
-      "https://images.unsplash.com/photo-1505998731978-1cb82ae73191?w=600&q=80",
-      "https://images.unsplash.com/photo-1514306191588-3a2cb1b715e6?w=600&q=80",
-      "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80"
+      "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1604364505966-e35d40abb1ae?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     description: "Five stages, 12 DJs, and 6 hours of pure electronic music mayhem. Neon Nights transforms Warehouse 23 into an immersive audiovisual experience with cutting-edge light installations, fog machines, and bass you can feel in your chest. VIP packages include exclusive artist meet & greets.",
     tags: ["edm", "electronic", "festival", "nightlife"],
@@ -235,9 +235,9 @@ export const EVENTS = [
     venue: "The Clay Studio",
     city: "Portland, OR",
     images: [
-      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=80",
-      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=400&q=80",
-      "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=80"
+      "https://plus.unsplash.com/premium_photo-1661380954234-13d98a83577c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1597696929736-6d13bed8e6a8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1670904892385-95e6ad5c0b86?q=80&w=715&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     description: "Learn the ancient art of pottery in this 3-hour hands-on workshop. From centering clay on the wheel to glazing and firing, you'll create your own unique ceramic piece to take home. Perfect for beginners — no experience needed. Wine and cheese provided.",
     tags: ["art", "crafts", "pottery", "hands-on", "relaxing"],
@@ -270,9 +270,9 @@ export const EVENTS = [
     venue: "T-Mobile Arena",
     city: "Las Vegas, NV",
     images: [
-      "https://images.unsplash.com/photo-1547936954-23ade7492c2b?w=600&q=80",
-      "https://images.unsplash.com/photo-1530746020798-e6953c6e8e04?w=600&q=80",
-      "https://images.unsplash.com/photo-1552427064-5aa29f681400?w=600&q=80"
+      "https://images.unsplash.com/photo-1495472552284-3f8aecebe3d1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1664902148014-302becd9dc49?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1672791841152-516b57f138f8?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     description: "The biggest night in MMA this quarter. The main event features the current heavyweight champion defending his title against the #1 contender. Five main card bouts including two title fights. Experience the raw energy of the octagon live.",
     tags: ["ufc", "mma", "fighting", "championship"],
@@ -339,8 +339,8 @@ export const EVENTS = [
     venue: "Her Majesty's Theatre",
     city: "New York, NY",
     images: [
-      "https://images.unsplash.com/photo-1514306191588-3a2cb1b715e6?w=600&q=80",
-      "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=600&q=80",
+      "https://plus.unsplash.com/premium_photo-1664302667283-d569ca07b1a3?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1516307365426-bea591f05011?q=80&w=1159&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=600&q=80"
     ],
     description: "The legendary musical returns to Broadway in a stunning 4K-enhanced production. With over 1,400 performances, this is the definitive retelling of Andrew Lloyd Webber's masterpiece. Featuring a 25-piece orchestra and jaw-dropping chandelier sequence. A once-in-a-lifetime theatrical experience.",
@@ -411,9 +411,9 @@ export const EVENTS = [
     venue: "The Improv Den",
     city: "Los Angeles, CA",
     images: [
-      "https://images.unsplash.com/photo-1609454803869-eb3f82394e4d?w=600&q=80",
-      "https://images.unsplash.com/photo-1555140578-1cdd25256d5c?w=600&q=80",
-      "https://images.unsplash.com/photo-1514306191588-3a2cb1b715e6?w=600&q=80"
+      "https://images.unsplash.com/photo-1565622124890-6cab81e9109d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1725905518200-b5a04d4faa90?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1706459418431-f68031d1b006?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     description: "3 hours of non-stop improv comedy featuring audience participation. A rotating cast of 8 comedians will improvise scenes, games, and songs based entirely on your suggestions. No two shows are ever the same. Late-night cocktail specials available.",
     tags: ["improv", "comedy", "late-night", "audience-participation"],
@@ -445,9 +445,9 @@ export const EVENTS = [
     venue: "Arthur Ashe Stadium",
     city: "New York, NY",
     images: [
-      "https://images.unsplash.com/photo-1552427064-5aa29f681400?w=600&q=80",
-      "https://images.unsplash.com/photo-1530746020798-e6953c6e8e04?w=600&q=80",
-      "https://images.unsplash.com/photo-1547936954-23ade7492c2b?w=600&q=80"
+      "https://images.unsplash.com/photo-1545151414-8a948e1ea54f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1499510318569-1a3d67dc3976?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1666913667023-4bfd0f6cff0a?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     description: "Watch the world's best tennis players battle for a spot in the Grand Slam finals. Two semi-final matches on the main court, featuring top-seeded players. Includes access to qualifying matches and the tennis village with food, merchandise, and player memorabilia.",
     tags: ["tennis", "grand-slam", "live-sports", "outdoor"],
@@ -551,9 +551,9 @@ export const EVENTS = [
     venue: "Sunrise Wellness Center",
     city: "Portland, OR",
     images: [
-      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=80",
-      "https://images.unsplash.com/photo-1505386981289-e6904c76fd2b?w=600&q=80",
-      "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=80"
+      "https://images.unsplash.com/photo-1764661441867-473a59a765bc?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1661720855875-8f72d1e782a0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1661499853353-b7feb94447fa?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     description: "Start your morning with a 3-hour sunrise yoga and meditation session surrounded by nature. Includes a vinyasa flow, guided mindfulness meditation, breathwork, and an organic breakfast. All skill levels welcome — modifications provided for every pose.",
     tags: ["yoga", "meditation", "wellness", "mindfulness", "sunrise"],
@@ -619,9 +619,9 @@ export const EVENTS = [
     venue: "Circuit of the Americas",
     city: "Austin, TX",
     images: [
-      "https://images.unsplash.com/photo-1547936954-23ade7492c2b?w=600&q=80",
-      "https://images.unsplash.com/photo-1530746020798-e6953c6e8e04?w=600&q=80",
-      "https://images.unsplash.com/photo-1552427064-5aa29f681400?w=600&q=80"
+      "https://images.unsplash.com/photo-1610905376670-5e7e0e8a3cfb?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1683380399873-9d2b43947728?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1728116693268-125c5d6ad9e2?q=80&w=929&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ],
     description: "Witness the pinnacle of motorsport at the Circuit of the Americas. Full race weekend experience: practice, qualifying, and the Sunday race. Includes a pit lane walk on Saturday morning and access to the fan zone with simulator experiences. Two seats per ticket.",
     tags: ["f1", "formula-1", "motorsport", "racing", "austin"],
@@ -654,9 +654,9 @@ export const EVENTS = [
     venue: "The Grand Comedy Theater",
     city: "Las Vegas, NV",
     images: [
-      "https://images.unsplash.com/photo-1609454803869-eb3f82394e4d?w=600&q=80",
-      "https://images.unsplash.com/photo-1555140578-1cdd25256d5c?w=600&q=80",
-      "https://images.unsplash.com/photo-1514306191588-3a2cb1b715e6?w=600&q=80"
+        "https://images.unsplash.com/photo-1571456331030-a1369bc759dc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1611956425642-d5a8169abd63?q=80&w=911&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1527224857830-43a7acc85260?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     ],
     description: "Valentine's Day special fundraiser roast featuring celebrity guests and top comedians. All proceeds benefit the National Comedy Fund. A glamorous evening of black-tie roasting, cocktails, and silent auction items. Formal attire encouraged.",
     tags: ["roast", "comedy", "charity", "formal", "celebrity"],
