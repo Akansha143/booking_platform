@@ -1,0 +1,134 @@
+@import "tailwindcss";
+
+@theme {
+  --font-family-display: 'Playfair Display', Georgia, serif;
+  --font-family-body: 'DM Sans', system-ui, sans-serif;
+  --color-brand-50: #f0fdf4;
+  --color-brand-100: #dcfce7;
+  --color-brand-200: #bbf7d0;
+  --color-brand-300: #86efac;
+  --color-brand-400: #4ade80;
+  --color-brand-500: #22c55e;
+  --color-brand-600: #16a34a;
+  --color-brand-700: #15803d;
+  --color-brand-800: #166534;
+  --color-brand-900: #14532d;
+  --color-accent-50: #fef3c7;
+  --color-accent-100: #fde68a;
+  --color-accent-200: #fbbf24;
+  --color-accent-500: #f59e0b;
+  --color-accent-600: #d97706;
+  --color-slate-950: #0f172a;
+  --color-slate-900: #1e293b;
+  --color-slate-800: #334155;
+  --color-slate-700: #475569;
+  --color-slate-600: #64748b;
+  --color-slate-500: #94a3b8;
+  --color-slate-400: #cbd5e1;
+  --color-slate-300: #e2e8f0;
+  --color-slate-200: #f1f5f9;
+  --color-slate-100: #f8fafc;
+}
+
+@layer base {
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: var(--font-family-body);
+    background-color: var(--color-slate-950);
+    color: #f1f5f9;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3 {
+    font-family: var(--font-family-display);
+    line-height: 1.2;
+  }
+
+  input:focus, button:focus, a:focus {
+    outline: 2px solid var(--color-brand-400);
+    outline-offset: 2px;
+  }
+
+  ::placeholder {
+    color: var(--color-slate-500);
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--color-slate-900);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-slate-700);
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-slate-600);
+  }
+
+  /* Toast animation */
+  @keyframes toast-in {
+    from { transform: translateX(110%); opacity: 0; }
+    to   { transform: translateX(0);    opacity: 1; }
+  }
+  @keyframes toast-out {
+    from { transform: translateX(0);    opacity: 1; }
+    to   { transform: translateX(110%); opacity: 0; }
+  }
+  .toast-enter {
+    animation: toast-in 0.32s cubic-bezier(.22,.68,0,1.2) forwards;
+  }
+  .toast-exit {
+    animation: toast-out 0.28s ease-in forwards;
+  }
+
+  /* Skeleton pulse */
+  @keyframes skeleton-pulse {
+    0%, 100% { opacity: 0.4; }
+    50%      { opacity: 0.7; }
+  }
+  .skeleton-pulse {
+    animation: skeleton-pulse 1.5s ease-in-out infinite;
+  }
+
+  /* Fade-in utility */
+  @keyframes fade-up {
+    from { opacity: 0; transform: translateY(18px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .fade-up {
+    animation: fade-up 0.5s cubic-bezier(.22,.68,0,1.2) both;
+  }
+
+  /* Modal backdrop */
+  @keyframes backdrop-in {
+    from { background: rgba(0,0,0,0); }
+    to   { background: rgba(0,0,0,0.6); }
+  }
+  .backdrop-animate {
+    animation: backdrop-in 0.25s ease forwards;
+  }
+
+  /* Accordion slide */
+  @keyframes slide-down {
+    from { max-height: 0; opacity: 0; }
+    to   { max-height: 500px; opacity: 1; }
+  }
+  @keyframes slide-up {
+    from { max-height: 500px; opacity: 1; }
+    to   { max-height: 0; opacity: 0; }
+  }
+  .slide-down { animation: slide-down 0.3s ease forwards; }
+  .slide-up   { animation: slide-up 0.3s ease forwards; }
+}
