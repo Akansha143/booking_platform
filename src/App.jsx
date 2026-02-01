@@ -18,10 +18,13 @@ import Login from './pages/Login'
 import Signup from './pages/Signup'
 import Account from './pages/Account'
 import NotFound from './pages/NotFound'
+import ScrollToTop from "./components/ScrollToTop";
+
 
 export default function App() {
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <ToastProvider>
         <AuthProvider>
           <CartProvider>
