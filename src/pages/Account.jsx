@@ -13,7 +13,7 @@ export default function Account() {
   const [wishlist] = useLocalStorage('eventflow_wishlist', [])
 
   useEffect(() => {
-    document.title = 'My Account — EventFlow'
+    document.title = 'My Account — Eventora'
   }, [])
 
   const wishlistEvents = wishlist

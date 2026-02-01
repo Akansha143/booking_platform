@@ -6,7 +6,7 @@ import { useLocalStorage } from '../hooks/useLocalStorage'
 
 export default function Home() {
   useEffect(() => {
-    document.title = 'EventFlow — Live Event Tickets'
+    document.title = 'Eventora — Live Event Tickets'
   }, [])
 
   // Featured = top 3 by popularity

@@ -14,7 +14,7 @@ const PAGE_SIZE = 6
 
 export default function Listing() {
   useEffect(() => {
-    document.title = 'All Events — EventFlow'
+    document.title = 'All Events — Eventora'
   }, [])
 
   const [searchParams, setSearchParams] = useSearchParams()

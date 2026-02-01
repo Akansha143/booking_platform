@@ -16,7 +16,7 @@ export default function Footer() {
                 </svg>
               </div>
               <span className="text-lg font-bold" style={{ fontFamily: "'Playfair Display', serif" }}>
-                Event<span className="text-green-400">Flow</span>
+                Event<span className="text-green-400">tora</span>
               </span>
             </div>
             <p className="text-slate-500 text-sm leading-relaxed max-w-sm">
@@ -75,7 +75,7 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div className="border-t border-slate-800 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <p className="text-slate-600 text-xs">© 2026 EventFlow. All rights reserved.</p>
+          <p className="text-slate-600 text-xs">© 2026 Eventora. All rights reserved.</p>
           <div className="flex items-center gap-4">
             <span className="text-slate-600 text-xs">Payments secured by</span>
             <span className="text-slate-500 text-xs font-semibold border border-slate-700 px-2 py-0.5 rounded">STRIPE</span>

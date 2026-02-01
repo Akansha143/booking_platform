@@ -26,7 +26,7 @@ export default function Signup() {
   const [showPassword, setShowPassword] = useState(false)
 
   useEffect(() => {
-    document.title = 'Sign Up — EventFlow'
+    document.title = 'Sign Up — Eventora'
     return () => clearError()
   }, [clearError])
 

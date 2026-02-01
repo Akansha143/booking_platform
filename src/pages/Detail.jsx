@@ -29,7 +29,7 @@ export default function Detail() {
   useEffect(() => {
     if (event) {
       trackView(event.id)
-      document.title = `${event.title} — EventFlow`
+      document.title = `${event.title} — Eventora`
       // Update recently viewed
       setRecentlyViewed(prev => {
         const filtered = prev.filter(eid => eid !== event.id)

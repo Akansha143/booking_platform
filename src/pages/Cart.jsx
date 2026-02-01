@@ -14,7 +14,7 @@ export default function Cart() {
   } = useCart()
 
   useEffect(() => {
-    document.title = 'Cart — EventFlow'
+    document.title = 'Cart — Eventora'
     if (couponDiscount) setCouponInput(couponDiscount.code)
   }, [couponDiscount])
 
