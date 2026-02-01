@@ -16,7 +16,7 @@ export default function Footer() {
                 </svg>
               </div>
               <span className="text-lg font-bold" style={{ fontFamily: "'Playfair Display', serif" }}>
-                Event<span className="text-green-400">tora</span>
+                Event<span className="text-green-400">ora</span>
               </span>
             </div>
             <p className="text-slate-500 text-sm leading-relaxed max-w-sm">

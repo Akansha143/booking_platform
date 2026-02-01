@@ -42,7 +42,7 @@ export default function Navbar() {
                 </svg>
               </div>
               <span className="text-xl font-bold tracking-tight" style={{ fontFamily: "'Playfair Display', serif" }}>
-                Event<span className="text-green-400">tora</span>
+                Event<span className="text-green-400">ora</span>
               </span>
             </Link>
 
