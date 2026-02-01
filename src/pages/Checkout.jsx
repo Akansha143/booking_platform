@@ -28,7 +28,7 @@ export default function Checkout() {
   const [order, setOrder] = useState(null)
 
   useEffect(() => {
-    document.title = `Checkout — Step ${step + 1} — EventFlow`
+    document.title = `Checkout — Step ${step + 1} — Eventora`
   }, [step])
 
   useEffect(() => {

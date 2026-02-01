@@ -12,7 +12,7 @@ export default function Login() {
   const [showPassword, setShowPassword] = useState(false)
 
   useEffect(() => {
-    document.title = 'Log In — EventFlow'
+    document.title = 'Log In — Eventora'
     return () => clearError()
   }, [clearError])
 

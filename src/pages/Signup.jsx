@@ -66,7 +66,7 @@ export default function Signup() {
 
         <div className="bg-slate-900 border border-slate-800 rounded-2xl p-8">
           <h1 className="text-slate-100 font-bold text-2xl text-center mb-1" style={{ fontFamily: "'Playfair Display', serif" }}>Create account</h1>
-          <p className="text-slate-500 text-sm text-center mb-6">Join EventFlow and get exclusive access to events</p>
+          <p className="text-slate-500 text-sm text-center mb-6">Join Eventora and get exclusive access to events</p>
 
           <form onSubmit={handleSubmit} noValidate>
             {/* Name */}
